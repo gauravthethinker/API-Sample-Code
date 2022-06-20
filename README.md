@@ -1,1 +1,0 @@
-# Django-API-Sample-Code
